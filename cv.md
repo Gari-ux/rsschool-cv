@@ -10,3 +10,14 @@ Evgeny Shablovsky
 ===
 I aspire to learn responsive layout and the JS programming language.
 I signed up for a course from RS SCHOOL and plan to work hard and hard!
+
+**Skills**
+===
++ HTML (basic)
++ Git (basic)
+
+**Code Example**
+===
+**Experience**
+===
+Learning
