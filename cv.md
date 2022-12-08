@@ -21,3 +21,12 @@ I signed up for a course from RS SCHOOL and plan to work hard and hard!
 **Experience**
 ===
 Learning
+
+Education
+===
++ general basic education
++ secondary specialized education (in progress)
+
+English
+===
+At level A1. learning from a tutor
