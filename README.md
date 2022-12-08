@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Gari-ux.github.io/rsschool-cv/cv
